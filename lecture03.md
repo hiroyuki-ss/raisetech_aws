@@ -1,5 +1,6 @@
 # RaiseTech-aws-lecture03
 ##  課題について
+![AWS第3講座](./images/sample_image.jpg)
 -  使用のAPサーバー
 
   Puma　version: 5.6.5
